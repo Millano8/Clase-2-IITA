@@ -17,4 +17,5 @@ class Calculadora:
         return a/b
 
     def cuadrado(a, b) -> int:
+        """Retorna la potencia de un numero 'a' elevado por otro 'b'."""
         return a**b
