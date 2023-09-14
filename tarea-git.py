@@ -15,3 +15,6 @@ class Calculadora:
     def dividir(a, b) -> float:
         """Retorna la division de dos numeros de punto flotante"""
         return a/b
+
+    def cuadrado(a, b) -> int:
+        return a**b
